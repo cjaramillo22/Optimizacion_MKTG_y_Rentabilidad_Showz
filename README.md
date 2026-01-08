@@ -1,8 +1,5 @@
 # Análisis de Marketing y Rentabilidad de Clientes en Showz
 
-**Autor:** Carlos Jaramillo  
-**Rol:** Analista de Datos  
-
 ---
 
 ## 📌 Descripción del proyecto
